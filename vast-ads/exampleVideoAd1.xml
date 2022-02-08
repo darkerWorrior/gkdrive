@@ -1,0 +1,23 @@
+<VAST version="2.0">
+  <Ad id="static">
+    <InLine>
+      <AdSystem>Static VAST Template</AdSystem>
+      <AdTitle>Static VAST Tag</AdTitle>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:05</Duration>
+
+          
+            <MediaFiles>
+              <MediaFile type="video/mp4" bitrate="300" width="640" height="360">
+             https://cdn1.kccmacs.lk/files/videos/ad_video_1.mp4
+              </MediaFile>
+            </MediaFiles>
+            
+           </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>

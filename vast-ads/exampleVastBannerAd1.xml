@@ -1,0 +1,34 @@
+<VAST version="2.0">
+<Ad id="6143828">
+<InLine>
+<AdSystem>
+<![CDATA[ MediaMind ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ Non Linear Static image ]]>
+</AdTitle>
+<Description>
+<![CDATA[ Non Linear Static image ]]>
+</Description>
+
+<Creatives>
+<Creative id="12604854" AdID="12604854" sequence="1">
+<NonLinearAds>
+<NonLinear id="33961912" height="60" width="320" maintainAspectRatio="true" scalable="true">
+<StaticResource creativeType="image/jpeg">
+<![CDATA[ //cdn1.kccmacs.lk/files/728x90.png ]]>
+</StaticResource>
+<NonLinearClickThrough>
+<![CDATA[ //codester.com/items/25775/google-drive-proxy-player-php-script?ref=codyseller ]]>
+</NonLinearClickThrough>
+</NonLinear>
+
+</NonLinearAds>
+</Creative>
+<Creative id="12604854" AdID="12604854" sequence="1">
+<CompanionAds/>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
