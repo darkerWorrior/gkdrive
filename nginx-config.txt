@@ -1,0 +1,8 @@
+location / {
+  if (!-e $request_filename){
+    rewrite ^/stream/(.*)?$ /stream/index.php?a=$1 last;
+  }
+  if (!-e $request_filename){
+    rewrite ^/(.*)?$ /index.php?a=$1 last;
+  }
+}
